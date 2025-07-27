@@ -1,0 +1,12 @@
+[
+  {
+    "name": "hewan_kartun",
+    "password": "pass123",
+    "dataFile": "/data/prompts_hewan_kartun.json"
+  },
+  {
+    "name": "fantasi_epic",
+    "password": "epicpassword",
+    "dataFile": "/data/prompts_fantasi_epic.json"
+  }
+]
